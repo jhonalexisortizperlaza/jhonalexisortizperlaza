@@ -1,2 +1,2 @@
-# hola 
-## soy jhon alexis
+# Hola 👋
+## Soy Jhon alexis Ortiz Perlaza - *Frontend Developer *
