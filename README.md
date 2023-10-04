@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Jhon Alexis Ortiz</h1>
+<h1 align="center">Hola 👋, Me llamo Jhon Alexis Ortiz</h1>
 <h3 align="center">Desarrollador web autodidacta en ascenso: Sin un título formal en desarrollo web, he forjado mi camino a través de tutoriales, cursos en línea y proyectos personales. Ahora estoy listo para contribuir a equipos de desarrollo y poner a prueba mis habilidades en un entorno profesional.</h3>
 
 - 👨‍💻 All of my projects are available at [https://alexis-ortiz.netlify.app/](https://alexis-ortiz.netlify.app/)
